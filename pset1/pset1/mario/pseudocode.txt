@@ -1,0 +1,7 @@
+import libraries
+prompt user to pick a number
+verify number is integer between 1 and 8 inclusive
+assign to variable
+draw some stuff
+for each row, draw numberPicked minus numberRow of spaces
+draw numberRow of #s
